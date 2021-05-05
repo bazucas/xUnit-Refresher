@@ -1,0 +1,14 @@
+C:\Users\Luis\Desktop\xUnit\WinFormUI\bin\Debug\PersonText.txt
+C:\Users\Luis\Desktop\xUnit\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\Luis\Desktop\xUnit\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\Luis\Desktop\xUnit\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\Luis\Desktop\xUnit\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\Luis\Desktop\xUnit\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\Luis\Desktop\xUnit\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\xUnit\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\Luis\Desktop\xUnit\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\Luis\Desktop\xUnit\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\xUnit\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\xUnit\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\Luis\Desktop\xUnit\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\Luis\Desktop\xUnit\WinFormUI\obj\Debug\WinFormUI.pdb
